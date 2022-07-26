@@ -1,6 +1,6 @@
 {
   "name": "what-type-is-it",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "See what type or instance something is",
   "main": "index.js",
   "scripts": {

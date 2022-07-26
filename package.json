@@ -1,0 +1,25 @@
+{
+  "name": "what-type-is-it",
+  "version": "1.0.0",
+  "description": "See what type or instance something is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeadaniel/what-type-is-it.git"
+  },
+  "keywords": [
+    "type",
+    "typeof",
+    "instance",
+    "instanceof"
+  ],
+  "author": "Blake Daniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeadaniel/what-type-is-it/issues"
+  },
+  "homepage": "https://github.com/blakeadaniel/what-type-is-it#readme"
+}
